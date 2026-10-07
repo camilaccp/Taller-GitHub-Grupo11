@@ -24,6 +24,18 @@ Los objetivos que busca cumplir este proyecto son:
 - Visualizar los resultados en un mapa interactivo de Colombia.
 
 
+## Datos
+
+Usamos los rankings semanales de las canciones más escuchadas de Spotify Charts para Bogotá, Medellín y Cali, desde 2022 hasta la actualidad.
+
+Cada ranking se descarga semana por semana y se una en una sola tabla. Después se limpian los nombres de artistas y canciones y se asigna un género a cada canción. 
+
+**Variables principales:** Ciudad, semana, canción, artista, posición en el ranking y género musical.
+
+
+
+
+
 
 ## Metodología
 

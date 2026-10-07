@@ -52,4 +52,5 @@ Los objetivos que busca cumplir este proyecto son:
 Integrantes:
 - Camila Castañeda - 202522612
 - Jacobo Castro - 202620340
+- Ronald Valdes - 202614980
 

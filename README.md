@@ -50,4 +50,6 @@ Los objetivos que busca cumplir este proyecto son:
 - Una respuesta basada en datos a los estereotipos musicales de cada región.
 
 Integrantes:
-Camila Castañeda - 202522612
+- Camila Castañeda - 202522612
+- Jacobo Castro - 202620340
+

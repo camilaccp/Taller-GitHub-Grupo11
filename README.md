@@ -61,6 +61,29 @@ Cada ranking se descarga semana por semana y se una en una sola tabla. Después 
 
 - Una respuesta basada en datos a los estereotipos musicales de cada región.
 
+### Estructura del repositorio
+
+```
+Taller-GitHub-Grupo11/
+├── data/
+│   ├── raw/             # Rankings descargados, sin modificar
+│   └── processed/       # Datos limpios y con género asignado
+├── notebooks/
+│   ├── 01_limpieza.ipynb
+│   ├── 02_exploracion.ipynb
+│   ├── 03_diversidad.ipynb
+│   └── 04_similitud.ipynb
+├── src/
+│   ├── limpieza.py      # Funciones para limpiar los datos
+│   ├── metricas.py      # Índices de diversidad y similitud
+│   └── mapa.py          # Mapa interactivo
+├── results/             # Gráficas y mapa finales
+├── requirements.txt     # Librerías necesarias
+└── README.md
+```
+
+
+
 Integrantes:
 - Camila Castañeda - 202522612
 - Jacobo Castro - 202620340

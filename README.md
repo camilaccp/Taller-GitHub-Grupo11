@@ -3,18 +3,18 @@
 ¿QUÉ ESTÁ ESCUCHANDO COLOMBIA?
 Analizaremos los hábitos musicales de Bogotá, Medellín, Cali, y Barranquilla a partir de los rankings de streaming. Inspiración del trabajo de Glenn McDonald y su mapa de géneros "Every Noise at Once".
 
--> CONTEXTO
+### CONTEXTO
 
 Colombia es uno de ls países con mayor diversidad musical del mundo, con tantos géneros como el reguetón, vallenato, salsa, champeta, música popular, rock y más. 
 Es muy común decir que "en Cali se escucha salsa", o "en Barranquilla se escucha champeta", pero todas estas ideas se basan más que todo en estereotipos que en datos. 
 
 Hoy en día, las plataformas de streaming publican rankings de las canciones más escuchadas por ciudad. Este proyecto entonces aprovecha estos datos para describir, usando evidencia, cómo son realmente los gustos musicales de cada ciudad y cómo han cambiado en los últimos años.
 
--> PREGUNTA DE INVESTIGACIÓN
+### PREGUNTA DE INVESTIGACIÓN
 
 ¿Los gustos musicales de las principales ciudades de Colombia se están volviendo más parecidos entre sí o siguen siendo distintos?
 
--> OBJETIVOS
+### OBJETIVOS
 
 Los objetivos que busca cumplir este proyecto son: 
 - Recopilar los rankings semanales de las canciones más escuchadas en las ciudades ya mencionadas.
@@ -24,7 +24,7 @@ Los objetivos que busca cumplir este proyecto son:
 - Visualizar los resultados en un mapa interactivo de Colombia.
 
 
-## Datos
+### Datos
 
 Usamos los rankings semanales de las canciones más escuchadas de Spotify Charts para Bogotá, Medellín y Cali, desde 2022 hasta la actualidad.
 
@@ -37,7 +37,7 @@ Cada ranking se descarga semana por semana y se una en una sola tabla. Después 
 
 
 
-## Metodología
+### Metodología
 
 1. *Recolección:* descarga de los rankings semanales de cada ciudad entre 2020 y 2024
 
@@ -51,7 +51,7 @@ Cada ranking se descarga semana por semana y se una en una sola tabla. Después 
 
 6. *Visualización:* gráficas de evolución en el tiempo y un mapa interactivo de Colombia con los géneros dominantes de cada ciudad.
 
-## Resultados esperados 
+### Resultados esperados 
 
 - El "perfil musical" de cada ciudad: géneros y artistas más escuchados.
 

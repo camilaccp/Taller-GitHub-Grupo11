@@ -34,9 +34,6 @@ Cada ranking se descarga semana por semana y se una en una sola tabla. Después 
 
 
 
-
-
-
 ### Metodología
 
 1. *Recolección:* descarga de los rankings semanales de cada ciudad entre 2020 y 2024
@@ -81,6 +78,8 @@ Taller-GitHub-Grupo11/
 ├── requirements.txt     # Librerías necesarias
 └── README.md
 ```
+
+Los datos originales que se van a utilizar se guardaran aparte de los procesados para no perderlos. Se usarán notebooks para que tengan el orden del análisis: limpieza, exploración, diversidad y similitud. El código que se llegue a repetir estará en `src/` y lo que producimos se encontrará en `results/`.
 
 
 

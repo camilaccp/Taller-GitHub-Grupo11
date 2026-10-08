@@ -36,7 +36,7 @@ Cada ranking se descarga semana por semana y se una en una sola tabla. Después 
 
 ### Metodología
 
-1. *Recolección:* descarga de los rankings semanales de cada ciudad entre 2020 y 2024
+1. *Recolección:* descarga de los rankings semanales de cada ciudad entre 2022 y la actualidad
 
 2. *Limpieza:* unificación de nombres artistas y canciones, eliminación de duplicados y asignación de género a cada canción
 

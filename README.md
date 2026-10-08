@@ -79,7 +79,7 @@ Taller-GitHub-Grupo11/
 └── README.md
 ```
 
-Los datos originales que se van a utilizar se guardaran aparte de los procesados para no perderlos. Se usarán notebooks para que tengan el orden del análisis: limpieza, exploración, diversidad y similitud. El código que se llegue a repetir estará en `src/` y lo que producimos se encontrará en `results/`.
+Los datos originales que se van a utilizar se guardaran aparte de los procesados para no perderlos. Se usarán notebooks para seguir el orden del análisis: limpieza, exploración, diversidad y similitud. El código que se llegue a repetir estará en `src/` y lo que producimos se encontrara en `results/`.
 
 archivo
 

@@ -81,10 +81,35 @@ Taller-GitHub-Grupo11/
 
 Los datos originales que se van a utilizar se guardaran aparte de los procesados para no perderlos. Se usarán notebooks para que tengan el orden del análisis: limpieza, exploración, diversidad y similitud. El código que se llegue a repetir estará en `src/` y lo que producimos se encontrará en `results/`.
 
+archivo
+
+
+## Tecnologías
+
+•⁠  ⁠*Python 3*
+
+•⁠  ⁠*pandas* manipulación y limpieza de datos
+
+•⁠  ⁠*Plotly* gráficas interactivas y mapa
+
+•⁠  ⁠*Matplotlib* gráficas de apoyo
+
+•⁠  ⁠*Jupyter Notebook* análisis paso a paso
+
+•⁠  ⁠*Git y GitHub* control de versiones y trabajo en equipo
+
+## 💡 Inspiración
+
+Este proyecto está inspirado en *Glenn McDonald, científico de datos que trabajó en Spotify, donde su cargo era conocido como "data alchemist". McDonald creó *Every Noise at Once*, un mapa interactivo que organiza miles de géneros musicales según qué tan parecidos suenan, y que permitía explorar qué música se escucha en distintos lugares del mundo.
+
+Tomamos su idea de usar datos para entender y clasificar los gustos musicales, y la aplicamos a las ciudades de Colombia.
+
+
 
 
 Integrantes:
 - Camila Castañeda - 202522612
 - Jacobo Castro - 202620340
 - Ronald Valdes - 202614980
+- Jeronimo Villa - 202624630
 

@@ -96,7 +96,7 @@ Los datos originales que se van a utilizar se guardaran aparte de los procesados
 
 •⁠  ⁠*Git y GitHub* control de versiones y trabajo en equipo
 
-## 💡 Inspiración
+## Inspiración
 
 Este proyecto está inspirado en *Glenn McDonald, científico de datos que trabajó en Spotify, donde su cargo era conocido como "data alchemist". McDonald creó *Every Noise at Once*, un mapa interactivo que organiza miles de géneros musicales según qué tan parecidos suenan, y que permitía explorar qué música se escucha en distintos lugares del mundo.
 
